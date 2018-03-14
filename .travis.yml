@@ -9,7 +9,7 @@ before_script:
   - env | sort
 
 script:
-  - docker built .
+  - docker build .
 
 after_script:
   - docker images
