@@ -1,0 +1,14 @@
+== batavia-docker
+
+Experimental project to test https://github.com/pybee/batavia/
+
+| {{https://travis-ci.org/jedie/batavia-docker.svg?branch=master|Status on travis-ci.org}} | [[https://travis-ci.org/jedie/batavia-docker/|travis-ci.org/jedie/batavia-docker]] |
+
+
+== Links:
+
+| Github              | [[https://github.com/jedie/batavia-docker]]
+
+== donation
+
+* Send [[http://www.bitcoin.org/|Bitcoins]] to [[https://blockexplorer.com/address/1823RZ5Md1Q2X5aSXRC5LRPcYdveCiVX6F|1823RZ5Md1Q2X5aSXRC5LRPcYdveCiVX6F]]
